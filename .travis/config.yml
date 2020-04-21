@@ -1,0 +1,13 @@
+---
+last_check:
+  etag: '"8b785861df3092cb45e27fc42b691cc2"'
+  version: 1.8.13
+  at: 1587460899
+checked_completion: true
+completion_version: 1.8.9
+endpoints:
+  https://api.travis-ci.org/:
+    access_token: DzmjbsYbafjBDLyOSjMP-g
+repos:
+  mengnanpeter/gcr_sync:
+    endpoint: https://api.travis-ci.org/
